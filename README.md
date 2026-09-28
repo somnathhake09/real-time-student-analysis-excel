@@ -41,6 +41,20 @@ The project includes visual analysis using:
 - Column Chart
 - KPI Cards
 
+## 📸 Project Screenshots
+
+### Student Data & Analysis
+
+![Student Data](screenshots/student-analysis-data.png)
+
+### Pivot Tables
+
+![Student Analysis Dashboard](screenshots/student-analysis-pivots.png)
+
+### Dashboard
+
+![Student Analysis Dashboard](screenshots/student-analysis-dashboard.png)
+
 ## 📁 Project File
 
 [Download / Open Excel Project](./Real-Time-Student-Analysis-Excel.xlsx)

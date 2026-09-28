@@ -45,15 +45,15 @@ The project includes visual analysis using:
 
 ### Student Data & Analysis
 
-![Student Data](screenshots/student-analysis-data.png)
+![Student Data](Screenshots/student-analysis-data.png)
 
 ### Pivot Tables
 
-![Student Analysis Dashboard](screenshots/student-analysis-pivots.png)
+![Student Analysis Dashboard](Screenshots/student-analysis-pivots.png)
 
 ### Dashboard
 
-![Student Analysis Dashboard](screenshots/student-analysis-dashboard.png)
+![Student Analysis Dashboard](Screenshots/student-analysis-dashboard.png)
 
 ## 📁 Project File
 
